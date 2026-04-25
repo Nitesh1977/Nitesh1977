@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nitesh 👋
 
-<!--
-**Nitesh1977/Nitesh1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Data Analyst  
+📊 Skilled in SQL, Excel & Python  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- E-commerce Sales Analysis
+- Superstore Sales Analysis
+- Sales Dashboard (Excel)
+- Company Database SQL Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- SQL
+- Excel
+- Python (Pandas, NumPy)
+- Data Visualization
+
+## 📫 Contact
+- Email: (niteshagarwalagarwal518@gmail.com)
+- LinkedIn: (www.linkedin.com/in/nitesh-agarwal-25516a24a)
