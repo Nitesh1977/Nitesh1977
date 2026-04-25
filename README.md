@@ -1,20 +1,23 @@
-# Hi, I'm Nitesh 👋
+# Hi, I'm Nitesh Agarwal 👋
 
-💻 Aspiring Data Analyst  
-📊 Skilled in SQL, Excel & Python  
+Aspiring Data Analyst skilled in SQL, Excel, Python, and Data Visualization.
 
-## 🚀 Projects
-- E-commerce Sales Analysis
-- Superstore Sales Analysis
-- Sales Dashboard (Excel)
-- Company Database SQL Analysis
+I enjoy working with data, cleaning datasets, building dashboards, and finding useful business insights.
 
-## 🛠 Skills
+## Skills
 - SQL
 - Excel
-- Python (Pandas, NumPy)
+- Python
+- Pivot Tables
+- Data Cleaning
 - Data Visualization
 
-## 📫 Contact
-- Email: (niteshagarwalagarwal518@gmail.com)
-- LinkedIn: (www.linkedin.com/in/nitesh-agarwal-25516a24a)
+## Projects
+- Superstore Sales Analysis
+- Sales Dashboard Excel
+- E-commerce Sales Analysis
+- Company Database SQL Analysis
+
+## Contact
+- Email: niteshagarwalagarwal518@gmail.com
+- LinkedIn: www.linkedin.com/in/nitesh-agarwal-25516a24a
